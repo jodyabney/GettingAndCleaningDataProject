@@ -1,6 +1,7 @@
 Getting and Cleaning Data Course Project
 ========================================================
 **Course**: Getting and Cleaning Data
+
 **Author**: Jody P. Abney
 
 ###Project Description
